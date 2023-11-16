@@ -27,5 +27,6 @@
 	</head>
 	<body ev:onpageload="scwin.onpageload" ev:onpageunload="scwin.onpageunload">
 		<w2:textbox label="h1 제목태그 입니다." style="" id="" tagname="h1"></w2:textbox>
+		<w2:textbox label="텍스트텍스트" style="position:absolute; top:144px; left:197px; width:150px; height:23px; " id=""></w2:textbox>
 	</body>
 </html>
