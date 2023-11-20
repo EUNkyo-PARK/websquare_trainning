@@ -168,7 +168,8 @@ body{
 .btn-icon.-download {background-image: url(../images/ico/ico-download.svg);background-repeat: no-repeat;background-size: 2rem 2rem;background-position: 1.0rem 0.5rem;}
 .btn-icon.-download:hover {background-image: url(../images/ico/ico-download-hover.svg);}
 .btn-icon.-download:disabled {background-image: url(../images/ico/ico-download-disable.svg);}
-.btn-box {display: flex;gap:0.6rem;justify-content: center;}
+
+.btn-box {display: flex;gap:0.6rem;justify-content: center;margin-top: 1.6rem;}
 .layer-box .btn-box {justify-content: space-between;}
 .layer-box .btn-box .btn + .btn {margin-left: 0.6rem;}
 
